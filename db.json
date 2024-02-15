@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "phone": "987-654-3210",
+      "website": "janesmith.com"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "username": "bob_johnson",
+      "email": "bob@example.com",
+      "phone": "555-123-4567",
+      "website": "bobjohnson.com"
+    },
+    {
+      "id": "4",
+      "name": "Alice Williams",
+      "username": "alice_williams",
+      "email": "alice@example.com",
+      "phone": "111-222-3333",
+      "website": "alicewilliams.com"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Brown",
+      "username": "charlie_brown",
+      "email": "charlie@example.com",
+      "phone": "444-555-6666",
+      "website": "charliebrown.com"
+    },
+    {
+      "id": "6",
+      "name": "Eva Davis",
+      "username": "eva_davis",
+      "email": "eva@example.com",
+      "phone": "777-888-9999",
+      "website": "evadavis.com"
+    },
+    {
+      "id": "7",
+      "name": "Sam Wilson",
+      "username": "sam_wilson",
+      "email": "sam@example.com",
+      "phone": "999-888-7777",
+      "website": "samwilson.com"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Moore",
+      "username": "olivia_moore",
+      "email": "olivia@example.com",
+      "phone": "222-333-4444",
+      "website": "oliviamoore.com"
+    },
+    {
+      "id": "10",
+      "name": "Sophia Clark",
+      "username": "sophia_clark",
+      "email": "sophia@example.com",
+      "phone": "333-444-5555",
+      "website": "sophiaclark.com"
+    },
+    {
+      "name": "deepanshu",
+      "email": "varsheny@gmail.com",
+      "phone": "5454545",
+      "id": "11"
+    },
+    {
+      "name": "Deepanshu Varshney",
+      "email": "dipanshug976@gmail.com",
+      "phone": "+91 98855 95985",
+      "id": "12"
+    },
+    {
+      "name": "Jhon-updtaed",
+      "email": "aaaa@gmail.com",
+      "phone": "123232",
+      "id": "13"
+    }
+  ]
+}
